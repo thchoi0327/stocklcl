@@ -20,6 +20,6 @@
   	naver_id_login.setPopup();
   	naver_id_login.init_naver_id_login();
   </script>
-	gggggg
+	Error 원인 : ip 변동으로 인한 인증 실패(추측)
   </body>
 </html>
